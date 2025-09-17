@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Cypress
+cypress/videos/
+cypress/screenshots/
+cypress/reports/
+
+# Logs
+*.log
+
+# Lock file (opcional)
+package-lock.json

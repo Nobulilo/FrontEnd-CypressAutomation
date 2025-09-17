@@ -1,0 +1,15 @@
+{
+  "Url": "https://demoqa.com",
+  "firstName": "Alison",
+  "lastName": "Santos",
+  "age": "32",
+  "salary": "444000",
+  "department": "Department 1",
+  "email": "alison@email.com",
+  "mobile": "1234567890",
+  "birth":"09/07/1993",
+  "subject1": "Art",
+  "subject2": "English",
+  "address": "Random Address, City 1, State 2, Number 39",
+  "PopupMessage": "This is a sample page"
+}
